@@ -1,0 +1,5 @@
+*.code-workspace
+.vscode/*
+bare_module_board/s140/ses/Output/*
+*.jlink
+*.emSession
